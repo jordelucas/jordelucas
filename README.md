@@ -2,7 +2,7 @@
 
 Apaixonado por programação, sou um Frontend Developer :computer:
 
-:computer: &nbsp; Atuo como bolsista do [Projeto Smart Metrópolis](https://smartmetropolis.imd.ufrn.br)
+:computer: &nbsp; Atuo como Programador de Sistemas da Informação - Desenvolvedor Frontend, no projeto SmartRetail/FUNPEC/UFRN.
 <br/> :yellow_heart: &nbsp; Busco me aprofundar no mundo javascript, aperfeiçoando meus conhecimentos em React
 <br/> :rocket: &nbsp; Minha stack: Node.js, ReactJS, React Native & Typescript
 <br/> :wink: &nbsp; Sobre mim: Gosto de tecnologias, música e sair com os amigos
